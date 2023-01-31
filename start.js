@@ -12,8 +12,8 @@ const APS_S3_SIGNED_DOWNLOAD = APS_BASE_URL + '/oss/v2/buckets/{0}/objects/{1}/s
 const APS_S3_SIGNED_UPLOAD = APS_BASE_URL + '/oss/v2/buckets/{0}/objects/{1}/signeds3upload'
 const APS_OBJECT_DETAILS = APS_BASE_URL + '/oss/v2/buckets/{0}/objects/{1}/details'
 
-const ASP_CLIENT_ID = 'N9qXK08PYtticWTGsqhBuJ3gE2JI234J'
-const ASP_CLIENT_SECRET = 'A8Z9CT8p2dHQfvGQ'
+const ASP_CLIENT_ID = '<your client id of APS>'
+const ASP_CLIENT_SECRET = '<your client secret of APS>'
 const APS_BUCKET_KEY = 'xiaodong-aps-new'
 const APS_OBJECT_KEY_for_UPLOAD = 'Audubon_Mechanical-2022.rvt'
 const APS_OBJECT_KEY_for_DOWNLOAD = APS_OBJECT_KEY_for_UPLOAD
